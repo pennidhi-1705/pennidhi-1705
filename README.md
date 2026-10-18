@@ -3,6 +3,14 @@
 
 ### B.Tech CSE Student | Aspiring Software Developer
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pennidhi-s-a54619387">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+
 I'm a Computer Science and Engineering student at VIT-AP University, passionate about learning new technologies, solving problems, and building projects that address real-world needs.
 
 I enjoy exploring software development, strengthening my programming fundamentals, and collaborating with teams to turn ideas into practical solutions.
